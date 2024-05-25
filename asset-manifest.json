@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebsiteCaslab-1.2/static/css/main.773a85d6.css",
+    "main.js": "/WebsiteCaslab-1.2/static/js/main.b31f1788.js",
+    "static/media/design13.png": "/WebsiteCaslab-1.2/static/media/design13.a90e863b5c27a8338e64.png",
+    "static/media/design12.png": "/WebsiteCaslab-1.2/static/media/design12.d79eee4f09481cc46a65.png",
+    "index.html": "/WebsiteCaslab-1.2/index.html",
+    "main.773a85d6.css.map": "/WebsiteCaslab-1.2/static/css/main.773a85d6.css.map",
+    "main.b31f1788.js.map": "/WebsiteCaslab-1.2/static/js/main.b31f1788.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.773a85d6.css",
+    "static/js/main.b31f1788.js"
+  ]
+}
